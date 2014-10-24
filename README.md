@@ -26,7 +26,7 @@ Instalação
 ---
  - Certifique-se de que não há instalação de outros módulos para o PagSeguro em seu sistema;
  - Baixe o repositório como arquivo zip ou faça um clone;
- - Extraia o conteúdo do arquivo baixado e em seguida, na área administrativa de seu WordPress, acesse o menu Plugins -> Adicionar Novo -> Enviar -> aponte para o caminho do arquivo wpwcpagseguro.zip e selecione Instalar Agora;
+ - Na área administrativa de seu WordPress acesse o menu Plugins -> Adicionar Novo -> Enviar -> aponte para o caminho do arquivo wpwcpagseguro.zip e selecione Instalar Agora;
  - Após a instalação selecione *Ativar plugin*;
 
 
@@ -51,6 +51,10 @@ Para acessar e configurar o módulo acesse, na área administrativa de seu WordP
 Changelog
 ---------
 ---
+1.1
+
+ - Ajuste na ativação/desativação do módulo.
+
 1.0
 
  - Versão inicial. Integração com API de checkout e API de notificações.
